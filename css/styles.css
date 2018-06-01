@@ -1,0 +1,15 @@
+button {
+  display: block;
+  background-color: skyblue;
+}
+.jumbotron{
+  background-color: skyblue;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
+
+#answer {
+  display: none;
+}

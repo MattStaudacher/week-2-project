@@ -6,7 +6,7 @@
 
 ## Description
 
-_{Survey that prompts the user 5 questions and suggests the programming language/track they should study that best suits them. Week 2 code review project putting Javascript/Jquery to use_
+_Survey that prompts the user 5 questions and suggests the programming language/track they should study that best suits them. Week 2 code review project putting Javascript/Jquery to use_
 
 
 
@@ -16,11 +16,11 @@ _If there are any issues, ideas or concerns please reach out to Matt Staudacher 
 
 ## Technologies Used
 
-_html
-_css
-_bootstrap
-_Javascript
-_Jquery
+html
+css
+bootstrap
+Javascript
+Jquery
 
 ### License
 

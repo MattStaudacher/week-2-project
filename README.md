@@ -1,4 +1,4 @@
-# _Which programming language should i learn? Week 2 project
+# Which programming language should i learn? Week 2 project
 
 #### _create a survey of questions that will deliver the programming language track one should take based on the answers to the questions, 06/01/2018_
 
@@ -16,11 +16,11 @@ _If there are any issues, ideas or concerns please reach out to Matt Staudacher 
 
 ## Technologies Used
 
-_*html
-_*css
-_*bootstrap
-_*Javascript
-_*Jquery
+_html
+_css
+_bootstrap
+_Javascript
+_Jquery
 
 ### License
 

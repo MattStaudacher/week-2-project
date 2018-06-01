@@ -8,6 +8,7 @@
     <title>Programming Language</title>
   </head>
   <body>
+    <div id="verticalStripes">
     <div class="container">
       <div class="jumbotron">
       <h1>Which programming language is right for me?</h1>
@@ -40,35 +41,35 @@
           <option value="Ned">Ned Stark</option>
           <option value="Hodor">Hodor</option>
         </select>
+        <br>
+            <label for="drink">Mark your go to drink when writing code:</label>
+                <div class="radio">
+          <label>
+            <input type="radio" name="drink" value="Tea" checked> Tea</label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="radio" name="drink" value="Coffee">
+            Coffee
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="radio" name="drink" value="RedBull">
+            Red Bull
+          </label>
+        </div>
+
+            <button type="submit" class="btn"><strong>Find my programming language!</strong></button>
+
+              </form>
 <br>
-<label for="drink">Mark your go to drink when writing code:</label>
-<div class="radio">
-  <label>
-    <input type="radio" name="drink" value="Tea" checked>
-    Tea
-  </label>
-</div>
-<div class="radio">
-  <label>
-    <input type="radio" name="drink" value="Coffee">
-    Coffee
-  </label>
-</div>
-<div class="radio">
-  <label>
-    <input type="radio" name="drink" value="RedBull">
-    Red Bull
-  </label>
-</div>
+<br>
+      <div id="csharp">The programming language you should learn is C#</div>
+      <div id="cssreact">The programming language you should learn is CSS/React</div>
+      <div id="rubyrails">The programming language you should learn is Ruby/rails</div>
 
-    <button type="submit" class="btn">Find my programming language!</button>
-      </form>
-      <div id="csharp"> C# </div>
-      <div id="cssreact">CSS/React</div>
-      <div id="rubyrails">Ruby/rails</div>
 
-      <div id="answer">
-        <p>The programming language/track you should take is:$<span id="answer"> answer answer answer</span>
     </div>
   </body>
 </html>

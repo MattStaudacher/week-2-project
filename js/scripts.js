@@ -8,10 +8,12 @@ $(document).ready(function() {
 
 
 
-  if (age < 25) {
+  if (gender === 'male' && age <20) {
     $('#csharp').show();
-  } else if (gender === "male" && age < 25) {
+  } else if (thrones === 'Cersei' && gender === 'female') {
     $('#cssreact').show();
+  } else {
+    $('#rubyrails').show();
   }
 
 
@@ -20,6 +22,10 @@ $(document).ready(function() {
 
 
 
+
     event.preventDefault();
+
+
+
   });
 });

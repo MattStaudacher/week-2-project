@@ -15,14 +15,6 @@ $(document).ready(function() {
   } else {
     $('#rubyrails').show();
   }
-
-
-
-
-
-
-
-
     event.preventDefault();
 
 
